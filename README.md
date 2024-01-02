@@ -1,1 +1,1 @@
-# TailClip: Mitigating Tail Latency In Cloud Gaming Via Smart Video Frame Generation
+# TailClip: Mitigating Tail Latency in Cloud Gaming via Smart Video Frame Generation
